@@ -1,4 +1,4 @@
-![Screenshot (260)](https://github.com/DeepikaA2004/Learning-Stars---Elearning-website/assets/110418508/9093358f-a6d0-46ac-ada4-585c9b69900c)# Project Name
+# Project Name
 🚀 **Learning Stars - The Ultimate E-Learning Platform** 🌟
 
 ## Introduction
