@@ -1,8 +1,5 @@
-## LearnEd (E-learning Website)
-An educational website for students and programmers 😊😊😊  
-
-![](pcView.png)
-
+## Learning stars (E-learning Website)
+An educational website for students and programmers 😊😊😊
 
 Our Educational Website would provide all the education related stuffs:  
 Notes, Sample Papers, Online Video Lectures and courses to crack competitive  
