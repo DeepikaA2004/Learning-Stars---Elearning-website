@@ -32,7 +32,6 @@ Interested in contributing to Learning Stars? We welcome collaboration to enhanc
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it as you see fit.
 
-## Acknowledgments
-We'd like to thank the open-source community and contributors for making Learning Stars possible. Your support is greatly appreciated.
+## Output Screenshots
 
 Happy learning and welcome to Learning Stars! 🚀📚
