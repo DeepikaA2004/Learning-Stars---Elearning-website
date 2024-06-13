@@ -1,4 +1,5 @@
-# Project Name
+## LEARNING STARS
+
 🚀 **Learning Stars - The Ultimate E-Learning Platform** 🌟
 
 ## Introduction
@@ -29,8 +30,6 @@ We'd love to hear from you. If you have questions or feedback, feel free to reac
 ## Contributing
 Interested in contributing to Learning Stars? We welcome collaboration to enhance the platform's features and functionalities. Let's work together to empower learners worldwide.
 
-## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it as you see fit.
 
 ## Output Screenshots
 #### index.html
@@ -102,3 +101,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 
 Happy learning and welcome to Learning Stars! 🚀📚
+
+## Contact 
+
+**MY LINKEDIN PROFILE** - https://www.linkedin.com/in/deepika2004/
